@@ -1,0 +1,88 @@
+html, body {
+    margin: 0;
+}
+
+label{
+    width:1000px;
+    padding-right: 5px;
+}
+
+.rowContato{
+    padding-left: 270px;
+    padding-bottom: 10px;
+}
+
+.row2Contato{
+    padding-left: 230px;
+}
+
+#row3Contato{
+    padding-left: 230px;
+    padding-bottom: 10px;
+}
+
+#row4Contato{
+    padding-left: 214px;
+    padding-bottom: 10px;
+}
+
+#row5Contato{
+    padding-left: 197px;
+}
+
+#row6Contato{
+    padding-left: 28px;
+}
+
+fieldset{
+    margin: 20px;
+    border-radius: 20px;
+    border-color: gray;
+}
+
+table tr:hover td{
+    background-color: darkgray;
+}
+
+table th{
+    background-color: Black;
+}
+
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: #537e91;
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(5, 108, 108);
+    min-height: 150px;
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: #656ed3;
+    min-height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
