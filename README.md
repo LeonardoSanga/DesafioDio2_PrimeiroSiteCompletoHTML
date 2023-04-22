@@ -25,5 +25,5 @@ Por se tratar do inicio do aprendizado de desenvolvimento web front-end, não te
 ### TAG &LT;iframe&GT;
 ![image](https://user-images.githubusercontent.com/100099053/233803217-50ad11f1-3f95-4212-a7a7-218a3e00dc4b.png)
 
-### TAG &LT;fieldset&GT;
+### TAG &LT;fieldset&GT; e &LT;input&GT;
 ![image](https://user-images.githubusercontent.com/100099053/233803250-78a1a089-b324-4c97-91a9-b33b8b99b25f.png)
